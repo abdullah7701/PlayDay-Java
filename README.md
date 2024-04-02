@@ -8,7 +8,7 @@ This Java program simulates a simple board game called "Payday Game" where playe
 2- java PaydayGame
 
 
-🎯 Game Rules
+#🎯 Game Rules
 Players start with a cash balance of $3500 each.
 The game is played over a specified number of months, with each month consisting of 30 days.
 Players take turns rolling a dice and moving around the board.
@@ -22,10 +22,17 @@ Charity: Not implemented in this version.
 Lottery: Not implemented in this version.
 End: End space, the game ends when a player reaches this space.
 The player with the most cash at the end of the specified months wins.
-📂 Files
+
+
+
+
+#📂 Files
 PaydayGame.java: Main Java code file containing classes for the game logic.
 README.md: This README file providing instructions and information about the game.
-📝 Notes
+
+
+
+#📝 Notes
 The game logic and actions are simplified for demonstration purposes.
 The game includes basic functionality such as rolling dice, moving players, and simulating financial actions.
 
